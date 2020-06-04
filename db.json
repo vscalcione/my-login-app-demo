@@ -6,7 +6,7 @@
             "surname": "Scalcione",
             "age": 21,
             "email": "vincenzo99.scalcione@gmail.com",
-            "phone": "3336530888",
+            "phone": "***********", // instead of asterisks, you must put your mobile number when registering
             "username": "vscalcione",
             "password": "vincenzo99"  
         }
