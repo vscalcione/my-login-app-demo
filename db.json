@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Vincenzo",
+            "surname": "Scalcione",
+            "age": 21,
+            "email": "vincenzo99.scalcione@gmail.com",
+            "phone": "3336530888",
+            "username": "vscalcione",
+            "password": "vincenzo99"  
+        }
+    ]
+}
